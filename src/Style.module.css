@@ -1,0 +1,12 @@
+.navbarFlex {
+  flex-grow: 1;
+}
+.navbarHeading {
+  font-size: 20px;
+  margin-left: 10px !important;
+  color: black;
+}
+.navbarText {
+  /* color: white; */
+  text-decoration: none;
+}
